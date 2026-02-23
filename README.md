@@ -22,7 +22,7 @@ This app demonstrates the fundamentals of state management and component-based d
 git clone https://github.com/hafsalman/CounterApp
 ```
 
-### 2️⃣ Install Dependencies 
+### 2️⃣ Initialize Expo Project
 
 ``` bash
 npx create-expo-app Counter --template expo-template-blank
